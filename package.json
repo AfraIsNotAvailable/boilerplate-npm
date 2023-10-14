@@ -18,5 +18,6 @@
 		"freecodecamp",
 		"this-is-so-cool"
 	],
-	"license": "MIT"
+	"license": "MIT",
+	"version": "1.0.0"
 }
